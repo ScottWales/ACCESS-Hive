@@ -93,6 +93,11 @@ synda is a command line tool to search and download files from the Earth System 
 
 # Data Communities / Catalogs
 
+## [NCAR Climate Data Guide][ncar-climate-dataguide]
+
+The Climate Data Guide provides concise and reliable information on the strengths and limitations of the key observational data sets, tools and methods used to evaluate Earth system models and to understand the climate system.  Citable expert commentaries are authored by experienced data users and developers, enabling scientists to multiply the impacts of their work and the diverse user community to access and understand the essential data.
+
+
 ## [FLUXNET][FLUXNET-web]
 
 FLUXNET is an international “network of networks,” tying together regional networks of earth system scientists. FLUXNET scientists use the eddy covariance technique to measure the cycling of carbon, water, and energy between the biosphere and atmosphere. Scientists use these data to better understand ecosystem functioning, and to detect trends in climate, greenhouse gases, and air pollution.
@@ -144,5 +149,6 @@ OzFlux is an ecosystem research network set up to provide Australian, New Zealan
 [kerchunk-doc]: https://fsspec.github.io/kerchunk/
 [kerchunk-source]:  https://github.com/fsspec/kerchunk
 
+[ncar-climate-dataguide]: https://climatedataguide.ucar.edu/
 [OZFlux-web]: https://www.ozflux.org.au
 [FLUXNET-web]: https://fluxnet.org/
